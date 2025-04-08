@@ -2,15 +2,15 @@
     "banners": [
         {
             "id": 1,
-            "banner": "https://amh767.github.io/api-data/assets/category/3-3.png"
+            "banner": "https://amh767.github.io/api-data/assets/category/banner.jpg"
         },
         {
             "id": 2,
-             "banner": "https://amh767.github.io/api-data/assets/category/3-3.png"
+             "banner": "https://amh767.github.io/api-data/assets/category/banner.jpg"
         },
         {
             "id": 3,
-             "banner": "https://amh767.github.io/api-data/assets/category/3-3.png"
+             "banner": "https://amh767.github.io/api-data/assets/category/banner.jpg"
         }
     ]
 }
