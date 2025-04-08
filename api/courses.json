@@ -2,7 +2,7 @@
   "courses": [
     {
       "id": 1,
-      "name": "Прокачка техники для стиля баттерфляй",
+      "name": "Прокачка техники для стиля Баттерфляй",
       "position": "Professional Software Developer and Educator",
       "shortName": "Learning Python for Data",
       "duration": "5h 30m",
@@ -26,7 +26,7 @@
     },
     {
       "id": 2,
-      "name": "Learn Photoshop, Web Design & Profitable Freelance 2022",
+      "name": "Прокачка техники для стиля Кроль на Спине",
       "position": "Professional Software Developer and Educator",
       "shortName": "Learn Photoshop & Web Design",
       "duration": "5h 30m",
@@ -41,7 +41,7 @@
       "isSpecial": true,
       "status": false,
       "authorImage": "https://george-fx.github.io/nuton/author.png",
-      "preview_90x90": "https://george-fx.github.io/nuton/courses/02-small.png",
+      "preview_90x90": "https://amh767.github.io/api-data/assets/vid_gif/spina.gif",
       "innerPreview": "https://george-fx.github.io/nuton/inner_image.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/02-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/02-3d.png",
@@ -51,7 +51,7 @@
     },
     {
       "id": 3,
-      "name": "Complete Wordpress Training For Beginners",
+      "name": "Прокачка техники для стиля Кроль",
       "position": "Professional Software Developer and Educator",
       "shortName": "Wordpress For Beginner",
       "duration": "5h 30m",
@@ -65,7 +65,7 @@
       "isSpecial": true,
       "status": true,
       "authorImage": "https://george-fx.github.io/nuton/author.png",
-      "preview_90x90": "https://george-fx.github.io/nuton/courses/03-small.png",
+      "preview_90x90": "https://amh767.github.io/api-data/assets/vid_gif/krol.gif",
       "innerPreview": "https://george-fx.github.io/nuton/inner_image.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/03-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/03-3d.png",
@@ -75,7 +75,7 @@
     },
     {
       "id": 4,
-      "name": "The Ultimate Guide to Strategic Marketing",
+      "name": "Прокачка техники для стиля Брасс",
       "position": "Professional Software Developer and Educator",
       "shortName": "Strategic Marketing",
       "duration": "5h 30m",
@@ -89,7 +89,7 @@
       "isSpecial": true,
       "status": false,
       "authorImage": "https://george-fx.github.io/nuton/author.png",
-      "preview_90x90": "https://george-fx.github.io/nuton/courses/04-small.png",
+      "preview_90x90": "https://amh767.github.io/api-data/assets/vid_gif/brass.gif",
       "innerPreview": "https://george-fx.github.io/nuton/inner_image.png",
       "bigPreview": "https://george-fx.github.io/nuton/courses/04-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/04-3d.png",
