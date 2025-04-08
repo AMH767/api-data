@@ -3,25 +3,25 @@
         {
             "id": 1,
             "name": "ИИ Чат",
-            "quantity": "7",
+            "quantity": "1",
             "image": "https://amh767.github.io/api-data/assets/category/2-2.png"
         },
         {
             "id": 2,
             "name": "Питание",
-            "quantity": "20",
+            "quantity": "5",
             "image": "https://amh767.github.io/api-data/assets/category/5-5.png"
         },
         {
             "id": 3,
             "name": "Бассейны",
-            "quantity": "17",
+            "quantity": "2",
             "image": "https://amh767.github.io/api-data/assets/category/6-6.png"
         },
         {
             "id": 4,
             "name": "План Тренировок",
-            "quantity": "23",
+            "quantity": "3",
             "image": "https://amh767.github.io/api-data/assets/category/4-4.png"
         },
         {
@@ -33,7 +33,7 @@
         {
             "id": 6,
             "name": "Видео(Работаю)",
-            "quantity": "14",
+            "quantity": "1",
             "image": "https://amh767.github.io/api-data/assets/category/3-3.png"
         }
     ]
