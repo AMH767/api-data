@@ -20,7 +20,7 @@
         },
         {
             "id": 4,
-            "name": "Тренировки",
+            "name": "План Тренировок",
             "quantity": "23",
             "image": "https://george-fx.github.io/nuton_api/assets/category/04.png"
         },
