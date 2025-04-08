@@ -8,31 +8,31 @@
         },
         {
             "id": 2,
-            "name": "Business",
+            "name": "Питание",
             "quantity": "20",
             "image": "https://george-fx.github.io/nuton_api/assets/category/02.png"
         },
         {
             "id": 3,
-            "name": "Design UI/UX",
+            "name": "Бассейны",
             "quantity": "17",
             "image": "https://george-fx.github.io/nuton_api/assets/category/03.png"
         },
         {
             "id": 4,
-            "name": "Digital Marketing",
+            "name": "Тренировки",
             "quantity": "23",
             "image": "https://george-fx.github.io/nuton_api/assets/category/04.png"
         },
         {
             "id": 5,
-            "name": "Computer games",
+            "name": "Музыка(Работаю)",
             "quantity": "5",
             "image": "https://george-fx.github.io/nuton_api/assets/category/05.png"
         },
         {
             "id": 6,
-            "name": "Analytics",
+            "name": "Видео(Работаю)",
             "quantity": "14",
             "image": "https://george-fx.github.io/nuton_api/assets/category/06.png"
         }
