@@ -21,60 +21,7 @@
       "bigPreview": "https://george-fx.github.io/nuton/courses/01-big.png",
       "threeDPreview": "https://george-fx.github.io/nuton/courses/01-3d.png",
       "video": "https://www.dropbox.com/scl/fi/ydgkbk7eraxt0qsg2et49/Dressel_start.mp4?e=1",
-      "description": {
-    "workout": {
-      "title": "🏊‍♂️ План тренировки: 2300 метров (Баттерфляй)",
-      "total_distance": 2300,
-      "warmup": {
-        "distance": 600,
-        "parts": [
-          {
-            "distance": 300,
-            "description": "🏝️ Разогреваемся: плавание любым стилем."
-          },
-          {
-            "distance": 200,
-            "description": "🦵 Удар ногами с доской (дельфин)."
-          },
-          {
-            "distance": 100,
-            "description": "🌬️ Дыхание: 25 м на 3 гребка, 25 м на 5."
-          }
-        ]
-      },
-      "main": {
-        "distance": 1400,
-        "parts": [
-          {
-            "distance": "4 × 100 м",
-            "description": "🌀 Баттерфляй с акцентом на волнообразное движение."
-          },
-          {
-            "distance": "2 × 200 м",
-            "description": "✋ Баттерфляй с паузой после каждого гребка."
-          },
-          {
-            "distance": 400,
-            "description": "💪 Комплекс: 50 м баттерфляй + 50 м вольный."
-          }
-        ]
-      },
-      "cooldown": {
-        "distance": 300,
-        "parts": [
-          {
-            "distance": 200,
-            "description": "🌊 Спокойное плавание на спине."
-          },
-          {
-            "distance": 100,
-            "description": "✨ Растяжка у бортика."
-          }
-        ]
-      },
-      "summary": "🎯 Итог: 2300 метров баттерфляя — вы молодец! 🔥"
-    }
-  },
+      "description": "Работает",
       "aboutTeacher": "I started working as a software developer at the age of 23, and never looked back. I explored careers as varied as being a  Game Developer, Educator and Drone Pilot, over the last 25 years. None of these provided a continual challenge in the same way the combination of..."
     },
     {
